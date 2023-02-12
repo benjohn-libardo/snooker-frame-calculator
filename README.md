@@ -1,4 +1,4 @@
-#snooker-frame-calculator
+## snooker-frame-calculator
 
 The purpose of this application is to calculate the scores of both players, based on the number of balls potted each player, and any fouls rewarded during a frame. Afterwards, the program determines the final score of the frame, the winner, and the difference of both players’ scores.
 
